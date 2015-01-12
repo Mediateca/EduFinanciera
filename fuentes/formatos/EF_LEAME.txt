@@ -1,0 +1,3 @@
+Esta carpeta contiene los formatos que se deben usar en los documentos fuente del proyecto. Contiene los siguientes formatos:
+
+* Formato de Guión multimedia

@@ -1,0 +1,1 @@
+Carpeta que contiene los insumos necesarios para desarrollar los elementos audiovisuales del proyecto.
